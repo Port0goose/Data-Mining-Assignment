@@ -1,0 +1,12 @@
+cluster_behavior_agglomerative_ward,cluster_value_agglomerative_ward,final_segment,customers
+1,1,"Deal Seekers (Low value, High engagement)",10932
+0,1,"Deal Seekers (Low value, High engagement)",3320
+3,0,"At-Risk VIPs (High value, Low engagement)",1012
+1,2,"Potential Loyalists (Medium value, High engagement)",692
+3,1,"Dormant / Low Value (Low value, Low engagement)",533
+0,2,"Potential Loyalists (Medium value, High engagement)",185
+2,1,"Dormant / Low Value (Low value, Low engagement)",26
+2,0,"At-Risk VIPs (High value, Low engagement)",18
+0,0,"Champions (High value, High engagement)",16
+3,2,"Need Attention (Medium value, Low engagement)",2
+2,2,"Need Attention (Medium value, Low engagement)",1

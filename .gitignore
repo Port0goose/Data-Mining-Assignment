@@ -1,5 +1,6 @@
 # Final segmented dataset
 Data/DM_AIAI_FinalCustomerSegments.csv
+Data/DM_AIAI_FinalCustomerSegments_withFinalSegmentation.csv
 
 # Python
 __pycache__/
