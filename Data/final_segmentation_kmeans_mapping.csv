@@ -1,7 +1,7 @@
 cluster_behavior_kmeans,cluster_value_kmeans,final_segment,customers
-0,0,"Potential Loyalists (Medium value, High engagement)",10865
-2,0,"Core Customers (Medium value, Medium engagement)",4307
-0,1,"Champions (High value, High engagement)",866
-2,1,"Loyal Customers (High value, Medium engagement)",649
-1,0,"Need Attention (Medium value, Low engagement)",39
-1,1,"At-Risk VIPs (High value, Low engagement)",11
+0,0,Rising Loyalists,10865
+2,0,Mainstream Core Travelers,4307
+0,1,Elite Frequent Flyers,866
+2,1,Loyal Premium Travelers,649
+1,0,Value Fading,39
+1,1,High-Value At-Risk,11
